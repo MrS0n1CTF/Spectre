@@ -1,0 +1,27 @@
+{
+  "Mali-G68 MC4": {
+    "8": ["Xiaomi Redmi Note 11 Pro", "Samsung Galaxy A73", "Realme 9 Pro+"],
+    "6": ["Xiaomi 11 Lite 5G NE", "Samsung Galaxy A53"]
+  },
+  "Mali-G52 MC2": {
+    "4": ["Redmi 9A", "Redmi 9C", "Realme C21"],
+    "3": ["Samsung Galaxy A03 Core"]
+  },
+  "Adreno 730": {
+    "12": ["Samsung Galaxy S22 Ultra", "Xiaomi 12 Pro", "OnePlus 10 Pro"],
+    "8": ["Samsung Galaxy S22", "Motorola Edge 30 Pro"]
+  },
+  "Adreno 650": {
+    "8": ["Samsung Galaxy S20", "OnePlus 8", "Xiaomi Mi 10"],
+    "12": ["Samsung Galaxy S20 Ultra", "OnePlus 8 Pro"]
+  },
+  "Adreno 618": {
+    "6": ["Xiaomi Mi 9T", "Redmi K20", "Samsung Galaxy A71"],
+    "8": ["Samsung Galaxy A80"]
+  },
+  "Apple GPU": {
+    "6": ["iPhone 13", "iPhone 14", "iPhone 14 Plus"],
+    "4": ["iPhone 12", "iPhone 12 Pro"],
+    "3": ["iPhone XR", "iPhone 11"]
+  }
+}
