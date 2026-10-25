@@ -1,8 +1,18 @@
 {
-    "angle": {
+    "Mali-G68 MC4": {
         "8": [
-            "Oppo Reno11 F",
-            "Realme Narzo 60 Pro"
+            {
+                "name": "Oppo Reno11 F",
+                "screen": "1080x2412",
+                "cores": "8",
+                "detected_at": "2026-10-25"
+            },
+            {
+                "name": "Realme Narzo 60 Pro",
+                "screen": "1080x2412",
+                "cores": "8",
+                "detected_at": "2026-10-25"
+            }
         ]
     }
 }
